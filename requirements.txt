@@ -1,0 +1,9 @@
+dash
+gunicorn
+plotly
+dash-tools
+pandas
+sqlalchey
+dash_bootstrap_components
+python-dotenv
+psycopg2
